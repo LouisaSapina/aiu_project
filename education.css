@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+}
+
+* {
+    margin: 0;
+}
+
+/* ДЛЯ КОЛЛАЖА */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* MENU */
+
+.title {
+    width: auto;
+    height: 85px;
+    background-color: white;
+}
+
+.AIU {
+    padding-top: 15px;
+    text-align: center;
+    color: #1D1D36;
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+}
+
+.navbar {
+    width: auto;
+    height: 48px;
+    background-color: #1D1D36;
+}
+
+.navbar2 {
+    padding-top: 9px;
+    text-align: center;
+    word-spacing: 40px;
+}
+
+
+.navbar3 {
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-weight: lighter;
+    font-size: 17px;
+    font-style:normal;
+    text-decoration: none;
+}
+
+.navbar3:hover {
+    color: #C4C3F3;
+    transition-duration: 0.5s;
+}
